@@ -57,40 +57,22 @@ I'm a final year AI Engineering student passionate about building intelligent sy
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-## 📊 GitHub Stats
+## 📚 Publications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharonkv&show_icons=true&theme=radical" alt="Sharon's GitHub Stats" />
-</p>
+### [Anomaly Detection in Blockchain Transactions: A Comparative Study of Isolation Forest, K-Means Clustering, and LSTM Models](https://ieeexplore.ieee.org/document/10531556)
+- Investigated machine learning approaches for detecting fraudulent blockchain transactions
+- Compared performance of traditional algorithms against deep learning models
+- Identified optimal techniques for real-time anomaly detection in cryptocurrency networks
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharonkv&theme=radical" alt="Sharon's Streak Stats" />
-</p>
-
-## 🏆 Projects
-
-### ChxseVerse - Advanced AI Chatbot Platform
-![Stars](https://img.shields.io/github/stars/sharonkv/chxseverse?style=social)
-- Founded and developed an AI-powered chatbot service for businesses
-- Created customizable conversation flows with cutting-edge NLP
-- Technologies: PyTorch, Transformers, FastAPI, AWS
-
-### Deep Learning for Medical Image Analysis
-![Stars](https://img.shields.io/github/stars/sharonkv/medical-image-analysis?style=social)
-- Developed a CNN-based approach for detecting anomalies in medical imaging
-- Achieved 94% accuracy on a public dataset
-- Technologies: PyTorch, OpenCV, Flask
-
-### NLP-Powered Resume Analyzer
-![Stars](https://img.shields.io/github/stars/sharonkv/resume-analyzer?style=social)
-- Built an intelligent system that analyzes resumes and suggests improvements
-- Leveraged BERT for text classification and entity extraction
-- Technologies: Transformers, spaCy, FastAPI
+### [A Novel Approach for Driver Drowsiness Detection using Deep Neural Networks](https://ieeexplore.ieee.org/document/10503519)
+- Developed an innovative computer vision system to detect driver fatigue
+- Implemented custom CNN architecture for real-time facial feature analysis
+- Achieved high accuracy in identifying early warning signs of drowsiness
 
 ## 📫 How to reach me
 - Email: sharon.kv@example.com
-- LinkedIn: [linkedin.com/in/sharonkv](https://linkedin.com/in/sharonkv)
-- Twitter: [@sharonkv](https://twitter.com/sharonkv)
+- LinkedIn: [linkedin.com/in/sharonkv](https://www.linkedin.com/in/sharonkv48/)
+- Twitter: [@sharonkv](https://x.com/sharonnkv)
 
 ---
 
