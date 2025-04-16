@@ -8,7 +8,7 @@ I'm a final year AI Engineering student passionate about building intelligent sy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sharonkv48/)
 
 ## 🔭 I'm currently working on
-- **[ChxseVerse](https://chxseverse.com)** - My AI startup providing advanced conversational AI chatbot solutions
+- **[ChxseVerse](https://chxseverse-ai.vercel.app/)** - My AI startup providing advanced conversational AI chatbot solutions
 - Building scalable NLP infrastructure for enterprise applications
 - Developing custom LLM implementations for specialized industries
 
