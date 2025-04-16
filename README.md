@@ -5,7 +5,7 @@
 I'm a final year AI Engineering student passionate about building intelligent systems that solve real-world problems. Currently exploring the intersections of deep learning, computer vision, and natural language processing.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sharonkv&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sharonkv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sharonkv48/)
 
 ## 🔭 I'm currently working on
 - **[ChxseVerse](https://chxseverse.com)** - My AI startup providing advanced conversational AI chatbot solutions
