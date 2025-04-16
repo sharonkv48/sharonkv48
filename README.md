@@ -70,7 +70,7 @@ I'm a final year AI Engineering student passionate about building intelligent sy
 - Achieved high accuracy in identifying early warning signs of drowsiness
 
 ## 📫 How to reach me
-- Email: sharon.kv@example.com
+- Email: sharonfx100@gmail.com
 - LinkedIn: [linkedin.com/in/sharonkv](https://www.linkedin.com/in/sharonkv48/)
 - Twitter: [@sharonkv](https://x.com/sharonnkv)
 
