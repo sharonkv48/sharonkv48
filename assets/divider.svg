@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b7bff" stop-opacity="0" />
+      <stop offset=".18" stop-color="#8b7bff" stop-opacity=".30" />
+      <stop offset=".5" stop-color="#3fd0ff" stop-opacity=".38" />
+      <stop offset=".82" stop-color="#ff5ea8" stop-opacity=".30" />
+      <stop offset="1" stop-color="#ff5ea8" stop-opacity="0" />
+    </linearGradient>
+    <path id="spark" d="M0,-9 C.7,-2.5 2.5,-.7 9,0 2.5,.7 .7,2.5 0,9 -.7,2.5 -2.5,.7 -9,0 -2.5,-.7 -.7,-2.5 0,-9Z" />
+  </defs>
+  <rect x="40" y="17.5" width="1120" height="1" fill="url(#line)" />
+  <use href="#spark" transform="translate(600 18) scale(.72)" fill="#8b7bff" opacity=".85" />
+  <circle cx="600" cy="18" r="2.2" fill="#e8e6ff" opacity=".9" />
+</svg>
